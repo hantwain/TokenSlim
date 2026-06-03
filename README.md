@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2)](https://discord.gg/your-link)
-[![中文版](https://img.shields.io/badge/中文版-README.zh--CN.md-red)](./README.zh-CN.md)
+[![中文版](https://img.shields.io/badge/中文版-README.zh--CN.md-red)](./README.zh_CN.md)
 
 > **Not zero token, but minimal token.**  
 > TokenSlim is an open-source community and collection of techniques dedicated to **drastically reducing LLM API token consumption**.  
@@ -113,7 +113,7 @@ MIT – you can freely use, modify, and commercialize, but please retain a refer
 **TokenSlim is not anti‑AI, it’s smarter AI.**  
 If you’ve ever winced at your monthly API bill, come join us in driving down token usage.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/TokenSlim&type=Date)](https://star-history.com/#your-username/TokenSlim&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=hantwain/TokenSlim&type=Date)](https://star-history.com/#hantwain/TokenSlim&Date)
 
 ---
 **Next step**: Star this repo ⭐, then head to Issues to share the token‑wasting scenario you want to solve first.
